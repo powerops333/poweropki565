@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Greene",
+  "age": 23,
+  "address": {
+    "street": "Dubta River",
+    "city": "Mouhdad",
+    "state": "MS",
+    "zip": "89109"
+  },
+  "contact": {
+    "phone": "(533) 269-9139",
+    "servicePhone": "800236453"
+  },
+  "birthday": "1976-02-13T14:41:39.216Z",
+  "ip": "212.154.237.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Oferi purcevpi duvocke opimoraf govfaj barle samidufe fofmogtu tuba zu matemfed usu. Nih mef bi be jernu nu kojdife bawu vag rizduara vofkufi ojedot. Nu kop demlucij noic ej gokoluri guzke nedufuj hocpafem nabe abienigim nuvjuzi fopo pudfozo ope.",
+    "bio": "Raj fagdacih nifaj petri vawrifefa cemlo biolu aheogpu keknefus wunuem umosikcap atucasof beicu ik tiobome dib afe. Ika eh dari pujobbit ce uk dahki zicnume guz gorun zo caczi atu. Hi zevkig rez muowve ra bifew zasa zemvih di jullarum igito sada lucvem hu du gevta lagjiwvud. Dig huejeru mo da umiji vulas jul sojogej cuzile ne oj vo lis siilu maza vehevap zaggezel lino. Tetrocged ducekuf nu uraiti fumzene ewgovget marka hekget mum vijon igtezeb isifazwal bihpulkuf duskoat. Ki otusin jijpodci hodaim vinu oprip jolih bilosma oliak du rawzojwa dulispi gavsemjog wu."
+  },
+  "apiKey": "272ea570cf9f7a2273199e67e0aaf6b50d1afc5daa1e3fa47532a645bcba4833",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
