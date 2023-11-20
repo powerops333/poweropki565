@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Carlson",
+  "age": 36,
+  "address": {
+    "street": "Nagag Grove",
+    "city": "Wishawaz",
+    "state": "NE",
+    "zip": "12057"
+  },
+  "contact": {
+    "phone": "(719) 494-4604",
+    "servicePhone": "800717281"
+  },
+  "birthday": "2006-06-03T05:32:01.076Z",
+  "ip": "212.182.35.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge olnob dolo ahfair puupfe ojgu nala ravvok me fis cece zehsad jud. Nu jamehkuf ti vowuic nod vojzo javi anabe rihejtac zajap celaoli pu ro muwju imomez ducif. Adhu vauc rapak pec uzu iloofane muha epuuvor vehfajnu zipiz gej tijrifwe jasrilbe zu. Co wazmub zecunov id apuuhu lo red lisajo zor ga boziheazi bab jugozi oji fed lum. Wenetufuk owe riuv ke re deatuvon ucatodi homunak al goteteg vutcok ke zucemelo fopa. Zacov wo ziw joppom hajsadde sopfu durolwid rul li pajukpa lobucte ga.",
+    "bio": "Ra zamhufwe viglovo weana ep jukwubgoh ludot javegkur gumku ti osda zo. Teb ehowujen ejcicez nati sebadeb bocibcak keb le fuga pe bucuzi sorrewa boizo om owimivvuf mo imdohup. Ta wocaj uheovu gav ekcibso anigozka panhozo pibuduri eve esbogtoh mevbinza us liz epaib gimi hadnidu aviso sasodin. Deh po hekimecom jet kibi paccu vukpenaz akdez nenvomad wo du nagibon batlofzi lalseaz."
+  },
+  "apiKey": "43f0f4cea4fd2f7bdb9c9a0005a5afa0dfc16595f8419b4d0adf672f27e89db4",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
