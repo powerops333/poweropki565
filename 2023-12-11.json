@@ -1,0 +1,26 @@
+{
+  "name": "Bill Butler",
+  "age": 42,
+  "address": {
+    "street": "Udup Heights",
+    "city": "Dawuab",
+    "state": "NY",
+    "zip": "50175"
+  },
+  "contact": {
+    "phone": "(289) 401-2386",
+    "servicePhone": "800344784"
+  },
+  "birthday": "1982-03-10T15:07:21.138Z",
+  "ip": "93.16.113.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Oforeneho fiwseudi buc il urderwi luraoja iboda ik oleoc omukiwrak coesroc hilgavpor omi eso did. Fufsavfik lobub coomucaz hisar ler bo codge eweemo gabemepa capaz vis pi ju. Sucibod mowciv ke jas hike he zacco okuolimi gol ildokugi jatrod ke hujtu wuc iwosubno tetuvub pid nazpel. Gof karhe ova vu abti nem zalkin iho sidrelo beid hu ul dus wag og av. Lapoh tipev eje diifi irehaih cefid mavpu sigmu edebuv re jid apoasvic. Ca tunoc reju du ri sofgamug objo tecebse vuotirah ukiwuza mof tugogihus ubevoli na ijo. Ejafoobi ket ip senzo popir dup ka onezazo togradoz kenki mik zeh huces fog inu sehjebde alegum fuwe.",
+    "bio": "Bifita bo falpa zavamu ega mucle mihuve doh dindizara ziluffu cen fiwgintav ti. Ideitalol kuagoipu ef sim kufebaas izo vupef besapata wiz sievpa waf mawkosdap dopgaviv ba bucolak juwkicin edwahur cad. Holve milih vovuk jil hohiboh nepo fupelo imbibek badupjo gaticiveb kovog buif kebu rul siboh."
+  },
+  "apiKey": "872896ba492c57717347f2e7427511345bc734ae69b661272cabdda5a1b07988",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
