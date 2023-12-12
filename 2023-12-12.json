@@ -1,0 +1,26 @@
+{
+  "name": "Marguerite Warren",
+  "age": 43,
+  "address": {
+    "street": "Nodez Street",
+    "city": "Luardo",
+    "state": "LA",
+    "zip": "34727"
+  },
+  "contact": {
+    "phone": "(613) 238-3405",
+    "servicePhone": "800724891"
+  },
+  "birthday": "2004-06-17T19:50:05.713Z",
+  "ip": "101.146.0.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ose loja putjisag boavefo luzwut tajece was sibu ab jofocu filvif pa. Anouwu zoreba looli ufmegwik kajti odba koiti pepola wocsejpi dubit zezemtad uro aninopovu satigzav ube uhdeg lifrohav ne. Zaopeho wunor mesouvu zos sikareda ja ime saes suzga zo nuvji abo wa begokohog discit.",
+    "bio": "Oldumto goguvla hut micna zugeer holavuca tofpij vi mefur wamho ziako ricaw bi. Dat ci wi fadgezu icowo lajnunez febzipvo fugpit noz ref nervib ova amoac aduureb tamri. Se kog lahsim ibzug libwabgo ratig ar sifohga ag ro jebazsam zidurgal avo leha possun. Jaz saage den mit zal azaziah sebawaalo affupet jizpo hopuhcin abilipar ic."
+  },
+  "apiKey": "77a399067cc5c782035024a489b6495bfd4cb11931ff0f1661a687045a2f2780",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
