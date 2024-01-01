@@ -1,0 +1,26 @@
+{
+  "name": "Dale Rodgers",
+  "age": 50,
+  "address": {
+    "street": "Imufu Turnpike",
+    "city": "Ergetit",
+    "state": "RI",
+    "zip": "07316"
+  },
+  "contact": {
+    "phone": "(688) 528-3274",
+    "servicePhone": "800998138"
+  },
+  "birthday": "1963-08-25T18:59:32.866Z",
+  "ip": "113.85.200.63",
+  "foo": "bar",
+  "profile": {
+    "about": "So kuridte itdaele le ecpuj ham faoma tatpi bonnavo ev lu to zavmijin wapoer duroh garo unab. Nesas in ih imunu lufvuv miswu tiup caz gukorug osilnir um gek ucduluj ve ujpo mopin. Tututit li pahe fohiz uco lezip ela ek agocir no cokamuj od niwij vedjur guk goco.",
+    "bio": "Fatodli tazjoivu akomot ipibahek cin fif bimal ne fuvgi izu tot ukwam ju afupah liljom ibomo cewik. Sekocajin sukbot papnov ugukivji tojapman ge diof ki ekikewbi gic ivi soze. Vihta uvninu aga riak zig moril egvoz nemiwi de tiro lijna vieweus wobidfot alenu gavejso aja god unzok."
+  },
+  "apiKey": "14d2b55d689f5a65532c605e3124351798f7251a758238da092ea67003a57735",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
