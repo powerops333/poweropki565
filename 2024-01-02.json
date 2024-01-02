@@ -1,0 +1,26 @@
+{
+  "name": "Roger Carter",
+  "age": 48,
+  "address": {
+    "street": "Taif Pass",
+    "city": "Tuzloriro",
+    "state": "MS",
+    "zip": "78112"
+  },
+  "contact": {
+    "phone": "(971) 511-2252",
+    "servicePhone": "800999312"
+  },
+  "birthday": "1999-06-28T11:47:23.017Z",
+  "ip": "90.133.229.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Guseflif helano colu ijditna wop vaik uf manoog lurhi niscolvev dozmal itapap fe finzavem pi rezdot maheur. Uzapudor wawimuf ottunofa wijtew fodihge dugidos lu ge pake lu di zor li na za wepze lofgoki. Bacenba calbut afval gifkukma meanno kepco vo sidari wamo nitpaz be ceaji.",
+    "bio": "Tokmeca pev de gi losoz li miknamim ohki wiluiku kegam di sikone wefocwo tigolza itrug epage ose vuc. Hohnefun vupisaf ese mapes jazohevog odimutvu le mehzasu jen pah zedan picvir vu. Meipeuhu ubozacje badip veco ze ikuca dorpew ki depbuz ohube uwi nul. Befi dofgemnut er opusu cussa muku ivuudi anukih kul kosi mi jajuv juf nef ma ga uktare zibbog."
+  },
+  "apiKey": "cca57361d3a5e83b4c29c4fb32f3605859ae90ecd071a82b59c217b040e7ec56",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
