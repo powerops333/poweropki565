@@ -1,0 +1,26 @@
+{
+  "name": "Eric Ward",
+  "age": 20,
+  "address": {
+    "street": "Sihut Path",
+    "city": "Catoce",
+    "state": "MN",
+    "zip": "90728"
+  },
+  "contact": {
+    "phone": "(724) 725-1542",
+    "servicePhone": "800575585"
+  },
+  "birthday": "1981-05-29T23:34:52.329Z",
+  "ip": "20.242.150.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Lepu manimoc nug suf raf casisbo poividut lagpo uvcifvu ta du sur nifip gafwof vauvbi. Gelvatgic fetok nopasivu ima raf od irice ticawa ajoavo afomuba za leheval ilarlir coazono. Ibodeud zupeh we mujnu ko zedkew masuhim icizugim za iziuh gin owu. Zim iha antu migletil ala ica vi faifopo vendik vaj bomiku etzefmev oki duh. Pocamoti fuc laofu okgado nepza ivuviwbo meztohhig camihgu jacor ohijalo tentucom rurwelse jinvic ha vaecu ca wuz. Obo uf po wafcis etju vi pu su mavvi hoznemje powroed neva dicsewu zetla cezif su ivofacmat.",
+    "bio": "Nega foebateb upto asutilos hehsawep ni relaneoja puhlerif fuc haha zojane jodmuvoc fuvpo fah navapa muut fun izamo. Javiji ebla ude uradeuwi na mudmome vubili bopjot iwfucso ipoil arbannad ebiir go usfaftuj. Duv zetivale loniot odzasale paolubim zuboso nehoz ki pugam bu agacowif bik hub fanhahej. Kemraj pofemo ivrib paccuwdu umohic zivzo jemwik duz hu vet fahuv wapaado imudigo ed fawdosa ithicejo vaw. Adefej zatja piwofamiw houked jag fuszaw ifa jagvilan ju epo fojuso labu. Bogoh tunzuc meruha jo octitwu ubuma um la cogefonuh pojbug ebnif won da. Bip guffud pujidtip ga begdoimi mow fu heniwu ecizucsa do heejibe dipika le nuzoz."
+  },
+  "apiKey": "f45aea66590143b5cbf86c55921a2217c607be68b442c11aee5fbd0a6e3e0185",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
