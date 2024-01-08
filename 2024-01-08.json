@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Sanchez",
+  "age": 46,
+  "address": {
+    "street": "Bovrur Point",
+    "city": "Sotorja",
+    "state": "SC",
+    "zip": "19981"
+  },
+  "contact": {
+    "phone": "(961) 408-9209",
+    "servicePhone": "800955632"
+  },
+  "birthday": "1992-12-12T00:30:42.628Z",
+  "ip": "40.229.84.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Etrirad ti zowe judet ileumdi ahe fovihuto gennurim ruhrap leunoseg tohbeb pikarde fipakug uhoobgul cucsid wuw. Bu guhhun wul tawhiz wutimnej dipnacef koz vo pimti siva lak woguse ovihuv terodkec ebe igugu. Vap tog vodo ap il lutagip jalrilo usvo lu aro wura si mehe gu pitad fa.",
+    "bio": "Me ceb vamec utikaf da zowakte ikaarigi ala go irfe kem iwcuk. Etefoves pa povik lika kam arokokgir wi zuzaagu moc fadibi hiji ugebekde. Ensuov zejilnol popdo arzaberu ruurgav kikve tocjackic fisaub efasaj efa po viw guvcihuve mipaw. Luuwigi kik ibsak zoide zeebi ce afnu pepig mo tep epzib nuskohog orutelop. Kagezuh cilcadpig vor ududo ibiditad icihkah afhenu ezu vat kodiv rubacealu oh gumteura ofirwed gifozi fiv iwoif sateh. Dooleavo cir foburji cejzapubu magovodeh kephi busicluk eve how zowro sukifudi ram hogomu dovumgag ewu. Gu nudobko me pu komvat feile libzuro tat jol gumtapge vossala potagu kocineb."
+  },
+  "apiKey": "762bfa870b4a6fd385095de199bc1d7c82beac18461e76b04a0f4a204c2bde12",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
