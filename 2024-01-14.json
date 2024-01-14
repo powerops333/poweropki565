@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Hodges",
+  "age": 47,
+  "address": {
+    "street": "Etagop Lane",
+    "city": "Meajiji",
+    "state": "HI",
+    "zip": "29466"
+  },
+  "contact": {
+    "phone": "(375) 522-4899",
+    "servicePhone": "800896824"
+  },
+  "birthday": "1967-02-15T12:43:30.904Z",
+  "ip": "195.187.232.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Lujet na wijge tin cigramaj noh an gaf wu gum ran fosvejka hif beba ozuig liezlu. Fe fen ipobi ozusif re miti ta fispiwoc detab fo cik miv tucur ophov ju vimtac buwwiz uvagim. Us lo heznoap akil pujure wojkeiw iwigogbet lip go silabfuf we zuna fosu te kozonoj. Ruviz nedziraz ruhrifuf ucola hazfacecu se jocomnu osusla usa ta jicij aco nu ekifala wif.",
+    "bio": "Vicmeila kubtiloj ha adeaf dav dej wusu ado efti emofoki odmim doezaco tumdul. Od kabso riz mizbacu nuhu paopvo pavec em zepcesim buji retto ujagaif. Zi de purasi zu facgop hagcek sos leid orem beptiseg hemikzac cokooje rove webzoet."
+  },
+  "apiKey": "eb8a854356d7a1a5673c251ad0ea66d790ca25f3e62eaa8056c30ec9685b46ea",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
