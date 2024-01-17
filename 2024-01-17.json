@@ -1,0 +1,26 @@
+{
+  "name": "Florence Flowers",
+  "age": 47,
+  "address": {
+    "street": "Zuec Street",
+    "city": "Afehaloc",
+    "state": "CA",
+    "zip": "00509"
+  },
+  "contact": {
+    "phone": "(867) 546-9650",
+    "servicePhone": "800961155"
+  },
+  "birthday": "1991-03-15T17:05:45.028Z",
+  "ip": "41.232.122.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Awu afe gic veaw fip hobonu ditobubuv juhuwiz kuj metmec igu kuthilej jujotli idoak. Lih taveb pofog duhaftaz vowov zozjuh wubwah ascasa jase fohuvi he li fiojenid uzci uwonarof ze. Iwipij poej wiflukog tej nasi patcareca vodtoig boreuku wo jimaluf aferi sig oglu meg dokrecja.",
+    "bio": "Mibujew kadovwi demta bik nitsopij odlabeg ba eni fumlug vula zov edza wepusi. Zak dij lebcuha hog mius zoje ridanume sezu buihbin paf tofbi aliwuhi imigu. Giszawen ozueli mut ijnafom jakfone tosabcuj nu va pumvigpe nub siruwopa isiewudav sa kuddi vur us. Ezwo je uv ociabi iwjiev udilule ec gozawu hu nu wejri fu kofme fulapoj gozwabja morgi bem japub."
+  },
+  "apiKey": "5ccfbd0f5c2f3e80fb44905907878cdd25467cc7e7f7c22ee972135b89b34e8f",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
