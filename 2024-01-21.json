@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Ball",
+  "age": 35,
+  "address": {
+    "street": "Dome Grove",
+    "city": "Orgoca",
+    "state": "RI",
+    "zip": "82195"
+  },
+  "contact": {
+    "phone": "(647) 527-2421",
+    "servicePhone": "800458339"
+  },
+  "birthday": "1975-11-25T23:52:09.204Z",
+  "ip": "88.22.165.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Mesvon ne imobol itzevbam inugozewi nej cahak lictuv we okite awi oka vabjiwu. Akofa sihrig hoeno didav docekah kezis jansot kufu zanpisi hi fooblew kopuja ru rugiw zukango. Biwel cahnaiw daohgek jivakham elmoeba zasla juc ridhi pitpi giwju idozuj ocagore zi ravirul fab kiwalar ga.",
+    "bio": "Roczijuv pu urokuzo genrarva hiis zig fo po uvusej luhbu vavav fidto wu. Lirgovma mimaho lubki zotcesba rup kilembeh omecuzhup osali odaesutes zipape notda paconaw eweimlek adsi ru enatlu. Cez muhe feswi demap zuble kismak zegake izoba gigte ge oj vok jet cafgi uvoli. Wabta ado vus wa su holmafnej be birep lizrum ac ni ihesag pe zoov folow ota. Fumrawa jeb ilfa faf jieza von hevkemaje sepoda gojjihip wa amgej atuuhoed fij ronbo ova gut ra. Epevulsup jeudede eva tu kehgowja itoveomu nomju pikzap nemejso fawa ci de. Badma rohca hi ej malsesug ko kidkakor rufgejro nukuke el tasfosa zesin lag hawoh ne ta."
+  },
+  "apiKey": "b7cd921d15798c62016aaa3a365d21a9e5293095d1e64f2f9615b2d79b331394",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
