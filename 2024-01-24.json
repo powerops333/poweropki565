@@ -1,0 +1,26 @@
+{
+  "name": "Sam Luna",
+  "age": 38,
+  "address": {
+    "street": "Rebsic Way",
+    "city": "Avcotec",
+    "state": "VA",
+    "zip": "40846"
+  },
+  "contact": {
+    "phone": "(642) 407-2836",
+    "servicePhone": "800551498"
+  },
+  "birthday": "1998-09-19T13:01:52.771Z",
+  "ip": "56.103.139.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Kup onuzuziv fuf botib vo dovoc ihce laahwa cazdeh suppuig du dan huja tesi. Kopjadho to id zutnuspu patdav nujam gikuf fi urwevi we igsi balajzez izuokesa cub ku uvebunsaz sierotu otiilewir. Moadluw jutik je udaur jog ga lapoda dadmetki odfaso gal cenhak ha ima pihat amjogcos.",
+    "bio": "Serwazpi nebwempo wofokwoz bogemmi nogat da nuv tuof vafpihafa lodumud non eze sagwaini jazezan. Fahmoviva pesifube lih fa on paced cibodbur rem me guwol fuzhiov eh udimezan kuc veoba jecep. Diragpuh zelve utsicuj cedcesaj sizot uci lil gowireb hokrudbop sol tid pazap huil supvozat ro avhu abaal biiluute. Fefu fufec mugiw duzohzeh uce tis lahkusob oltizwet giw bajugo zek ga luzduc zutlevo. Homtez jiiwnu ibcetbes ok pe je zejof kujcetfa nu weoz ultu daspol juvnune bufbi micewhom nor dijot imenigo. Iswehub li dap famudwi porbuwcom virehu sap fopu vajapoc bipavto woje kap josuute wonac jek hureud."
+  },
+  "apiKey": "b91918bbb05d8e777ad14770358ed71a196b0f9bcc5a9bbfa327b5e7b912dfb6",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
