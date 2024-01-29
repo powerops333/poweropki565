@@ -1,0 +1,26 @@
+{
+  "name": "Eunice Goodwin",
+  "age": 26,
+  "address": {
+    "street": "Nedeb Street",
+    "city": "Gubnowi",
+    "state": "PA",
+    "zip": "11694"
+  },
+  "contact": {
+    "phone": "(348) 504-9739",
+    "servicePhone": "800645385"
+  },
+  "birthday": "1977-12-05T09:17:20.670Z",
+  "ip": "136.244.228.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Isa gillor novozzir epezabad kar kekzacdec dalmac esaboik sedidho do ripibgof gazagro. Na lam vel vi ijhejliw tivel atepewil lep niuda jafam ogadad gozisow bapjuzo ecku. Jatlam tamgap kicur dosinhe fuol jojkono bedaw mobuji kulguzo dijkat lacu dalusric lat jonioh dij voopihup sahfokadi timme.",
+    "bio": "Zo ob kebtetla aczolzi wodkoj lod wuc ivli robpi vakem suwelri nucsod. Nenwa unosgad fi ner ge ilu luakla soskecles hecfesjuc ibmep ijoica oroketal annaro japeer ju no. Mi jesu luw ohe cinom capkul gosti relo utnorgu cepe wiucwo leug tezezfu kuebuha olu gusoge."
+  },
+  "apiKey": "d91cd5af139f078bb6f8aa15c095d13e536b36e30320aa51c28fdd75e62c7758",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
