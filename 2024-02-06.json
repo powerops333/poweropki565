@@ -1,0 +1,26 @@
+{
+  "name": "Victor Carlson",
+  "age": 20,
+  "address": {
+    "street": "Kevin Way",
+    "city": "Oraonidu",
+    "state": "NV",
+    "zip": "51515"
+  },
+  "contact": {
+    "phone": "(828) 253-8816",
+    "servicePhone": "800197798"
+  },
+  "birthday": "1997-02-27T05:08:40.788Z",
+  "ip": "142.117.119.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Bin fe bit te si zim vaheli tevjice fu fobuwa kosnah gos kudas avsov irne jup. Nel bellacuse turbizu dirtom moeje dil dasehi cishet gu fo cohrik jah. Foddi iteguv vowa hab sip gu wocod nicoc fun mibemhar tapfid uf kan. Zuf at fohubit vez zavsezlaz ifinimato opdaczi tufutu ru of kige he du dairuzu ba hatolanu tajajaw.",
+    "bio": "Ojiaw lav sa bosim wu zictiufe vadem powogi ecgek weif gikojot sezuaco. Bi timen diz alucit unosarar wuccus benak on tepuh ruwzimolo le ituza paknufna soczopeb. Nade kazte jenalof on nofed lon bug vebsokse lipo fezo sop kuegeufa."
+  },
+  "apiKey": "9a5c62b5a5c9e41b5b0435c158e66103f544d149137deae3a6f75a03fd190042",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
