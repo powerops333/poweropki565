@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Wise",
+  "age": 57,
+  "address": {
+    "street": "Fupcar Lane",
+    "city": "Ildawgu",
+    "state": "WI",
+    "zip": "97519"
+  },
+  "contact": {
+    "phone": "(416) 992-9376",
+    "servicePhone": "800337693"
+  },
+  "birthday": "1972-04-21T16:34:18.341Z",
+  "ip": "116.65.41.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Goti hihotgoh wuk cad woonewuz fa lebofde ewu nuhopa saupinok wek cega. Fazgilif podehedo nupzobzih aj bolieh vozwizur dugusu zoj kot ka du fo tulpaz. Ahid fopreak mouga ka pe ozwagpi mavduv tupi bovi del kag kek ugeco. Ter romomo keuge velpiv ubanab wo supagemag beziwic ipiez te ve apmik vid molwuid feaseli niilu waw joinmo.",
+    "bio": "Cizakmag ilzow hefsahive rudav ocafu nuhde miw vi lehjaj logser rezaav agezefji bitab reazu fume. Sel comu jeparti ofoocufir we pabor od ohkiktin da pabpijpo papowru esjonka fihasri. Ho buvuz kobkoctab ifzel ige nevikjiv zew omoaw sawnowjow uf ewihuva munlis ispipof mi rejpi pu pete."
+  },
+  "apiKey": "0da756ac7e6bc58ac16c56a955d95dcb2a354f56d1b42e6c68643df48b58ab36",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
