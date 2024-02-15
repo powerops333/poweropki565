@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Gonzalez",
+  "age": 20,
+  "address": {
+    "street": "Dazok Glen",
+    "city": "Kuluboma",
+    "state": "NM",
+    "zip": "34567"
+  },
+  "contact": {
+    "phone": "(647) 260-6919",
+    "servicePhone": "800267131"
+  },
+  "birthday": "1974-12-16T05:10:00.934Z",
+  "ip": "85.153.66.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Tubukej kewwoltab jotem raisi li reteul fadojfit halu vavcu ega kod me valajel. Fa munco kuvfa vopukuh funzieh gaznotli cifjiace owgo ivaas zobicfa pezzag ji. Ilaanumo isetut tamesvi pado nop ko kal ocsac goza gitvebad uki pewlab coc rotu. Bevdah we vairezu ojva kige abjus baas hetu epepefip ose hehubsil vohabrej kitig gutcavu gomiwhu akuke.",
+    "bio": "Jusegbi kiroswam woji movjesen bef agmomho pa cas midci gaw wo dehew tasofol baimhib dijmalla vep. Zinow covki ujzeldej durud to uso hamosi jaciej pidwim arepuzfe judragu ra. Levubulu bubbimo diufi fufte tuurgef zed lozidud iraekuba huni fijhok uplad hi eneja fifzivoc vu. Kuf fa seh jipzo vuide jag um vit hum givi iv sejupav tevamlef tebuf."
+  },
+  "apiKey": "aca5bd844a8ea344a8f81de6a28d92c9f2009ce483d4ae2b8f35cda9dcbcff71",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
