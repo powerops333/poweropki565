@@ -1,0 +1,26 @@
+{
+  "name": "Hester Morgan",
+  "age": 41,
+  "address": {
+    "street": "Kahzi Lane",
+    "city": "Etzauso",
+    "state": "TN",
+    "zip": "03717"
+  },
+  "contact": {
+    "phone": "(269) 631-9203",
+    "servicePhone": "800625296"
+  },
+  "birthday": "1976-05-12T21:40:08.423Z",
+  "ip": "79.88.81.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Deh kipac arhu ral ve rowis sef ruwasu pirsifu gus hojwed onjiza uvidejo. Nevekoh oltih bofar favrimsaj teh gapuup jilzih vuvaju las niuhdin jeh buh kar rewo depadod. Pemovoh olubuz us araje baerho duolitu got zacju witpijrub pa aburij ikoumva semuduf.",
+    "bio": "Opluthoh ses fo kilup riraiw sudoju icukubpe ujima tufohuob ko ulce gug ezu. Fu vamaij lume tir bifje adumi cuahoban ta jo hiwgikdu riwus iruage ziv aw roerpoz nurucdol. Hul pav ned zev sufkidos afti tuvsipliw capiso zonif paja is midfa eveko rizvu molte kagfel vukditet pokzoz."
+  },
+  "apiKey": "ef1056523d7dc8ba084cf0067a29ebef0a2a0851edb232fd0a679edda6b8d79a",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
