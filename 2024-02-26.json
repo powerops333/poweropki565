@@ -1,0 +1,26 @@
+{
+  "name": "Danny Manning",
+  "age": 20,
+  "address": {
+    "street": "Sifpo Turnpike",
+    "city": "Kivisup",
+    "state": "NH",
+    "zip": "39724"
+  },
+  "contact": {
+    "phone": "(735) 698-2855",
+    "servicePhone": "800167452"
+  },
+  "birthday": "1970-04-20T18:20:30.660Z",
+  "ip": "96.107.201.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Hacat faege cecopeh nacowla gicvocem areh luafuri ga cuvfasdos ajva po silibo zo. Nobtulvu ef cukazir ogo goral fakuwepa la imudegig ves vuumi ajo rehiv had. Mic agediw pecbebtu velvegzuh zibuh wolla opatu bih ze fi odoge wesersit fozokde joluh. Wapiawo sa ci radbudpoz patzir selehser nadke gamu cohkofto ifutu dub as huomu omip su.",
+    "bio": "Ra uk hij me cohhe hej wudwimu to advalid amwi munrol mo. Lihmoh vid vab bucorefas puf lit olu nigubadu esokojsel za wurusza le zu fofulla wuma jigo mocvi emuze. We muj fuklod edo cebkubo otasi gole sebnis ke zansunpeh imihi wi. Biagwe zemihlu meneogo kubepav daawe fo us howki fi hicte eftel duf nodgoc. Kezekuf limfabub aj ab ri pemajese fobha kiuf jeccutute ekfi robjo heebece. Gilfe gege bit bikiv pevcukre wos hudumse wuvim tihreprap ib humu vurjabeb elkul et hegto. Pozu fiwafuv rafojo hucfidkil heizni ze libapi uf gofi sifet we ijelwa."
+  },
+  "apiKey": "ad860c99bc29d7bd902310fa8411b891305509cd6b5efc6e879d1c6023a38a10",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
