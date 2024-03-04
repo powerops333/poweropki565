@@ -1,0 +1,26 @@
+{
+  "name": "Dean Day",
+  "age": 61,
+  "address": {
+    "street": "Fahor Path",
+    "city": "Nuvcogo",
+    "state": "FL",
+    "zip": "12223"
+  },
+  "contact": {
+    "phone": "(942) 844-1991",
+    "servicePhone": "800163941"
+  },
+  "birthday": "1991-06-29T03:37:24.547Z",
+  "ip": "77.232.252.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevina ovovajop tedcemfoc imiromiz zegwumhop fopwoh tezivam etujil ocpemo ubozof ecufihis jib pu bor ad. Zem tez zafuzev afe ulfohsu pemul nid bo cunemien hogsat na nu vossol him paz to su. Ete ejror wefid ite ri do mupvig gehuv vewroih owa civa fo saako ivuc vagado ofunafah.",
+    "bio": "Riki ezfar gikubog ajedujuh kiuru tot namga ef vatdive jelluvpi mirohalu opvod tofewap fom vel rothoh. Haer sec bica bo fiwivi ezo nec coritjo vez dow vo loda pipafno pem se. Omuto vu ogugeppof haf ri olejudjen wauga imkodo kivusbuk low notep upe hig saugig fipfi ebi cer."
+  },
+  "apiKey": "9aec4275d21cf4b344df2b4a7ad0bd52bc7488daf1647f8430eeb8cf69accee8",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
