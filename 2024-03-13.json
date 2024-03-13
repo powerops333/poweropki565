@@ -1,0 +1,26 @@
+{
+  "name": "Susan Larson",
+  "age": 20,
+  "address": {
+    "street": "Vozo Avenue",
+    "city": "Wahpefu",
+    "state": "NY",
+    "zip": "90215"
+  },
+  "contact": {
+    "phone": "(632) 370-4318",
+    "servicePhone": "800212787"
+  },
+  "birthday": "2002-12-17T11:16:34.478Z",
+  "ip": "52.115.233.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Guaca odnic efamok vedvah eloha oruulasim uzekih tik kuhliwuk bimjeli doro koviwioj sodiw elemippe ocamob. Ca dosgonak iwdi rej gik vusbag johenot erwu tuk bebpilfa wefu ug asgicas dugnu jado ha. Un guckulo sul omvo sownerah nuv for ibodovhi jow ugotvow zif leudi.",
+    "bio": "Niim feamto kilet ete bifuw inuilafe meni zidza nackef wuvbihu fi zonotog lisbiipo lo giuj caele rufik. Ci sazlicu lu tan toh pi lokvasi jov bu rub da imuro. Bi woem nid bivuke ijaponeju iku kuf sufuglu botawad rehunjov cebgu fi cuctodi awka vaciti ugsopoco wekgasrum."
+  },
+  "apiKey": "c90a15ea58cb6af13a69656d5182a1fa385987abbcd4519d159a5be30c02dfab",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
