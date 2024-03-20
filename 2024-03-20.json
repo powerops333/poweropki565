@@ -1,0 +1,26 @@
+{
+  "name": "Christine Gibson",
+  "age": 51,
+  "address": {
+    "street": "Oladik Street",
+    "city": "Veleson",
+    "state": "IN",
+    "zip": "77608"
+  },
+  "contact": {
+    "phone": "(946) 747-8344",
+    "servicePhone": "800759171"
+  },
+  "birthday": "1984-09-06T23:59:25.435Z",
+  "ip": "218.208.24.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubunal deh muphozno lehihut vil zovru pigki fu ojgam vuhe pa geoc fijacuoz oro meivu owa. Have moapodoc sezca kimguh zem jackadhem ite reom ajujeb makomu sut bilkaw juvol tehsufuf guc. Devbusur nuvhirow badetzig cacogsew abifabta kibze podan basuwka cu enironuf saisi bapac.",
+    "bio": "Udodov iveveh verlu habgot vev pa toulfe afiweipa ro sekih varca bijep olowepub bup pe widazbiz burun mebaunu. Anajol pu tejpu vof cipab beinzim tefal bu rurfifof fe cusafi sutmid. Ti si kaovewow pemu waoh rileg ka malec fomhopem heko ho aruilto lev."
+  },
+  "apiKey": "1b74bbc701204337a2cd68f3d4586e43f4be84cbab6826a84fe0fb6afcc42314",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
