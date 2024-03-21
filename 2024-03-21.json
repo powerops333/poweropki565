@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Lawrence",
+  "age": 23,
+  "address": {
+    "street": "Gumi Street",
+    "city": "Akuhawo",
+    "state": "SC",
+    "zip": "92929"
+  },
+  "contact": {
+    "phone": "(854) 431-4775",
+    "servicePhone": "800824282"
+  },
+  "birthday": "1979-09-14T15:23:23.439Z",
+  "ip": "184.28.9.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuj ri we gizhepwul si defbesiw disemro kidju alo modkicoh je dojvab ume dil ke lef. Ta tasaljoj afo ledtu dohev ose wa umo nurivjet mi os rab eb cugaz nipu. Nasobkej eri uzpode izo uvo tam it fasu turopdig aduz faphirej ovta wu un vo riti oliludjaw.",
+    "bio": "Pu vuhvute okrupe fere ta nedfa wehmon tewfajov rokgaha bocduc tit rup. Douliju gozemviz wogob jukvop veg lolur rukiti rocku zevino hel pitrelu agivu ja sagsa. Juto ticud wik luhwi ucmiko lefjowar biwvenic bo meg do ihcivafo tifeh codmeg une ce goj jedodide imoha."
+  },
+  "apiKey": "ad882b6b2aad60d9ae8ce8d18055d19a6f8d6f169ca2f867f9021d124e8c3435",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
