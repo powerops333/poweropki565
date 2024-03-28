@@ -1,0 +1,26 @@
+{
+  "name": "Walter Crawford",
+  "age": 30,
+  "address": {
+    "street": "Okava Pass",
+    "city": "Kobadif",
+    "state": "NE",
+    "zip": "34502"
+  },
+  "contact": {
+    "phone": "(552) 468-8146",
+    "servicePhone": "800889682"
+  },
+  "birthday": "1966-03-23T03:12:21.951Z",
+  "ip": "168.86.17.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Jucki parewba sa larrun hahvurni neb refe uvgoeci pac reicesu rut lizalco es eftatguw cewuwweg. Uv kur ubudoz opzo diw nadvin jen bukga ki pusu virvur tikajne ukumumov esa ses huocapos soimmu. Fi doofa ejwe suhino razu jef tefiloc ketzi bownobpok ji fezda wanozol kunijfot abruen dapvuri irelu.",
+    "bio": "Ijravil rus fugonkos vulib bofpa em cicro caiwukik vu jenun fosisi walawit go dadrobo. Erzij lo rovokof waoveze umi wil aji vibjo jige bopveb uwmir juese ci. Fafcugir ihowe wi vevfuk numo decuj juire fap voogojud fampifdep zovezub nunah letokvi cejitwur rehmamgen. Copsid letra kekujuga sukgac colta wup dozjeem cer are rat ri cogos parpaim."
+  },
+  "apiKey": "8c4da6bf84859c59588bce9a44ca5727fe92185230cc94f1d7934b63dc0cf9ff",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
